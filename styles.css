@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    margin: auto ;
+    color: #E85A4F;
+    font-size: 70px;
+    font-family: 'Caveat', cursive;
+    margin-top:50px ;
+    margin-bottom: 10px;
+} 
+h2{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: #E85A4F;
+} 
+h3{
+    font-size: 20px;
+    color: #E98074;
+}
+p{
+    line-height: 1.5;
+}
+hr{
+    border: dotted;
+    color: #EAE7DC;
+    width: 40%;
+    margin: 40px auto;
+}
+.top-container{
+    background-color: #EAE7DC;
+    padding: 50px;
+    position: relative;
+     
+} 
+.middle-container{
+    margin: auto;
+    width: 50%;
+}
+.bottom-container{
+    background-color: #E98074;
+    padding: 50px 0 20px;
+     
+} 
+ #bottom-cloud{
+    margin: auto ;
+    margin-bottom: 350px;
+    margin-right: 150px;
+
+}
+#top-cloud{
+    
+   margin: auto ;
+   margin-left: 350px; 
+}
+#volcano{
+
+    height: 300px;
+    border-radius: 100%;
+    margin: auto;
+    margin-right: 250px;
+}
+.pp{
+    margin-top: 50px;
+    border-color: #8e8d8a;
+    border-radius: 100%;
+    height: 200px;
+}
+.web-dev{
+     border-radius: 100%;
+     height: 120px;
+    
+     align-items: center;
+     float: right;
+     
+}
+.leisure{
+    border-radius: 100%;
+     height: 120px;
+     align-items: center;
+     float: left;
+     margin-right: 30px;
+}
+.skill-row{
+    margin:50px auto 50px;
+}
+.btn {
+    margin: 50px auto;
+	box-shadow: 1px 3px 6px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#E85A4F;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:10px 25px;
+	text-decoration:none;
+	text-shadow:6px 4px 3px #810e05;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f08880;
+}
+.btn:active {
+	position:relative;
+	top:2px;
+}
+.footer-link{
+    margin: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    text-decoration: none;
+    color: #700a03;
+}
+a:hover{
+    color: white;
+}
+.copy_right{
+    color: rgb(247, 199, 191);
+    padding: 20px 0;
+}
